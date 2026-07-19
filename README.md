@@ -14,6 +14,7 @@
 - needs data.jmcc.block with entry from `minecraft:#doors`
 - needs data.jmcc.facing with value `east`, `north`, `south` or `west`
 - needs data.jmcc.hinge with value `left` or `right`
+- optional `data.jmcc.relation` with list of one ore more uuid of connected doors
 - optional tag `jmcc.locked` if door state should be locked
 - optional tag `jmcc.autolock` if door should automatically lock when it closes
 - optional scoreboard `jmcc.timer` with value in seconds for closing the door automatically
