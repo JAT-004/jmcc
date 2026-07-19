@@ -1,4 +1,4 @@
-say Return
+
 # setup scoreboard
 $scoreboard players set scoreboard.$(scoreboard) jmcc.number 0
 

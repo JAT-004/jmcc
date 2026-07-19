@@ -1,4 +1,4 @@
-say Loop
+
 # return if free
 $execute unless score scoreboard.$(scoreboard) jmcc.number matches ..2147483647 run return run function jmcc:argument/scoreboard/return {scoreboard:$(scoreboard)}
 
