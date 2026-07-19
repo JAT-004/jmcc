@@ -1,5 +1,6 @@
 
 # create scoreboards
+scoreboard objectives add jmcc.timer dummy
 scoreboard objectives add jmcc.number dummy
 
 # initialize scoreboards
